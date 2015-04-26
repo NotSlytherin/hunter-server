@@ -1,0 +1,22 @@
+{
+  "name": "hunter-server",
+  "version": "1.0.0",
+  "description": "QRHunt-V2 Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ITatJCU/hunter-server.git"
+  },
+  "keywords": [
+    "QRHunt"
+  ],
+  "author": "IT@JCU DevClub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ITatJCU/hunter-server/issues"
+  },
+  "homepage": "https://github.com/ITatJCU/hunter-server"
+}
