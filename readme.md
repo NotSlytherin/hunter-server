@@ -4,7 +4,7 @@ To sync your fork. In 'git' run:
 git fetch upstream
 git checkout master
 git merge upstream/master
-
+```
 Every time you sync your fork be sure to do the following:
 1. From command line:
   * Change directory to the Node.js project
