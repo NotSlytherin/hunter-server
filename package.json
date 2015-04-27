@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ITatJCU/hunter-server/issues"
   },
-  "homepage": "https://github.com/ITatJCU/hunter-server"
+  "homepage": "https://github.com/ITatJCU/hunter-server",
+  "dependencies": {
+    "restify": "^3.0.2"
+  }
 }
